@@ -1,2 +1,3 @@
-# backend
-Spring Boot, Java17, JPA, OpenAPI, Docker, MySQL 상품권 발권 시스템 백엔드 리포지토리입니다.
+# project-voucher
+
+- [진행하기에 앞서..](https://hyune.gitbook.io/hyune-wiki/mentor-and-code-reviewer/before-proceeding-with-the-code-review)
